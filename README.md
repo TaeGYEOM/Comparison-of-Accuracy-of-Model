@@ -23,4 +23,4 @@
 
 
 
-##### 현재 이 코드는 오픈소스 https://github.com/fozziethebeat/S-Space 의 코드를 참고하여 논문의 실험에 맞게 바꿨습니다.
+##### 이 코드는 오픈소스 https://github.com/fozziethebeat/S-Space 의 코드를 참고하여 논문의 실험에 맞게 바꿨습니다.
