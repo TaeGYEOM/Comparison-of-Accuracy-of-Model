@@ -7,10 +7,10 @@
 - 크기별로 정제하는 코드는 load_data()함수에 있으며, nsmc말뭉치는 긍정적인 문장과 부정적인 문장을 각각 반씩 구성하여 5,000문장 말뭉치부터 25,000문장 말뭉치까지 따로 구성했습니다.
 
 ## 구현 환경
-OS : Ubuntu 16.04
-GPU : Titan xp
-cuda & cudnn version : 10.01 / 7.0
-Tool : Anaconda & Jupyter notebook
+- OS : Ubuntu 16.04
+- GPU : Titan xp
+- cuda & cudnn version : 10.01 / 7.0
+- Tool : Anaconda & Jupyter notebook
 
 ## Model Parameters
 - filter_sizes 변수를 사용해 CNN의 필터의 크기를 바꿀 수 있습니다.
