@@ -1,4 +1,4 @@
-# Performance-Comparison-of-Natural-Language-Processing-Model-based-on-Deep-Neural-Networks
+# Performance Comparison of Natural Language Processing Model based on Deep Neural Networks
 
 - 모델은 CNN, Bi-GRU, Bi-GRU+CNN까지 총 3가지입니다
 - nsmc, IMDB, Reuters 말뭉치를 사용하여 3가지 모델을 학습해 정확도를 얻을 수 있습니다.
