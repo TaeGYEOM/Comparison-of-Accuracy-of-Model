@@ -23,4 +23,4 @@ Tool : Anaconda & Jupyter notebook
 
 
 
-### 현재 이 코드는 오픈소스 https://github.com/fozziethebeat/S-Space의 코드를 참고하여 논문의 실험에 맞게 바꾼것임을 알립니다.
+### 현재 이 코드는 오픈소스 https://github.com/fozziethebeat/S-Space 의 코드를 참고하여 논문의 실험에 맞게 바꾼것임을 알립니다.
