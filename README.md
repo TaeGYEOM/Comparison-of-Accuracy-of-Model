@@ -10,7 +10,7 @@
 - OS : Ubuntu 16.04
 - GPU : Titan xp
 - cuda & cudnn version : 10.01 / 7.0
-- Tool : Anaconda & Jupyter notebook
+- Tool : Anaconda & Jupyter notebook, Tensorflow, Keras
 
 ## Model Parameters
 - filter_sizes 변수를 사용해 CNN의 필터의 크기를 바꿀 수 있습니다.
