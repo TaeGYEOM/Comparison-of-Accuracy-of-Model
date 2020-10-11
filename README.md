@@ -6,7 +6,7 @@
 - IMDB와 Reuters말뭉치는 keras에서 제공하는 말뭉치를 사용했으며, nsmc는 직접 정제하여 사용했습니다.
 - 크기별로 정제하는 코드는 load_data()함수에 있으며, nsmc말뭉치는 긍정적인 문장과 부정적인 문장을 각각 반씩 구성하여 5,000문장 말뭉치부터 25,000문장 말뭉치까지 따로 구성했습니다.
 
-## 구현 환경
+## Environment
 - OS : Ubuntu 16.04
 - GPU : Titan xp
 - cuda & cudnn version : 10.01 / 7.0
