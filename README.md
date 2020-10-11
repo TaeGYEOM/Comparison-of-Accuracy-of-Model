@@ -30,7 +30,7 @@
 - filter_sizes 변수를 사용해 CNN의 필터의 크기를 바꿀 수 있습니다.
 - dropout_prob 변수를 사용해 drop_out의 값을 조정할 수 있습니다.
 - hidden_dims 변수를 사용해 hidden layer의 유닛의 개수를 정할 수 있습니다.
-- 모델은 Static과 Non-static으로 구분됩니다. Non-static은 각 모델들이 학습중에 임베딩된 단어 벡터들도 함께 학습됩니다. 반면에 Static은 학습되지 않습니다.
+- 모델은 Static과 Non-static 그리고 rand으로 구분됩니다. Non-static은 각 모델들이 학습중에 임베딩된 단어 벡터들도 함께 학습됩니다. 반면에 Static은 학습되지 않습니다. rand은 Word2Vec을 적용하지 않고 각 단어 벡터들을 랜덤한 값으로 초기화하고, 모델 학습중에 단어 벡터들도 함께 학습시키는 방법입니다.
 
 ## Training
 - batch_size 변수를 바꿔 batch의 크기를 정할 수 있습니다.
